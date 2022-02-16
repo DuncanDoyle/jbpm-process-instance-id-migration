@@ -10,7 +10,7 @@
   <description>Process Instance ID Migration</description>
   <properties>
     <version.org.kie>6.5.0.Final-redhat-2</version.org.kie>
-    <version.org.postgresql>42.2.10</version.org.postgresql>
+    <version.org.postgresql>42.3.3</version.org.postgresql>
   </properties>
   <dependencies>
     <dependency>
